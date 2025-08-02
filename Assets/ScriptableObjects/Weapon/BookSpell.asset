@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77a3e2bfd021563448a8d199fc771f74, type: 3}
+  m_Name: BookSpell
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 6019e96afb2057f45930762b66648a64, type: 3}
+  weaponType: 0
+  damage: 2
+  projectile: {fileID: 1417276472708576959, guid: aacf8d2a8f31c6f409c506ac8c3109c7, type: 3}
+  requiredMana: 2

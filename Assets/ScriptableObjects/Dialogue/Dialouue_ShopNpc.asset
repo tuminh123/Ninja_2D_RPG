@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74f249ba7d3cf46be5c71624faf0d4, type: 3}
+  m_Name: Dialouue_ShopNpc
+  m_EditorClassIdentifier: 
+  npcName: Old Man
+  icon: {fileID: 21300000, guid: 589910df1cd12ac4b8d7315883bca911, type: 3}
+  hasInteraction: 1
+  interactionType: 2
+  greeting: Hey there, welcome to the shop
+  dialogue:
+  - Need anything spaecial or just browsing around ?

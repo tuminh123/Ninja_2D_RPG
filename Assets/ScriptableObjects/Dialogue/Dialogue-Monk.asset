@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74f249ba7d3cf46be5c71624faf0d4, type: 3}
+  m_Name: Dialogue-Monk
+  m_EditorClassIdentifier: 
+  npcName: Monk
+  icon: {fileID: 21300000, guid: 06eaeab3d897712428ce8a26b403a4a7, type: 3}
+  hasInteraction: 0
+  interactionType: 3
+  greeting: Hi adventure
+  dialogue:
+  - It's interesting to see an adventure like you in this town.
+  - I hop you have luck on adventure
